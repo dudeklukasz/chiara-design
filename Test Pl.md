@@ -92,11 +92,12 @@ The main objective is to ensure the quality and reliability of the e-commerce we
   - **Mitigation**: Ensure proper training and development to improve testing skills of team members.
 - **Risk**: Delays in test execution.
   - **Mitigation**:  Prioritize critical test cases and conduct proper time estimation to avoid delays.
-
+<br></br>
 
 <h1 id="Jira-Main">List of all test cases created in Jira and Xray</h2>
 
 ![Alt text](https://github.com/dudeklukasz/chiara-design/blob/main/img/Login_Test_Cases.png "a title")
+<br></br>
 
 <h1 id="Qase-Main">Example test cases in full details using Qase.</h2>
 
