@@ -58,6 +58,40 @@ The main objective is to ensure the quality and reliability of the e-commerce we
 * **Start Date**: Beginning of Sprint 7
 * **End Date**: End of Sprint 7 or continuous testing until all test cases are executed and critical issues are resolved.
 
+### Resources
+
+- **Manual tester**: Responsible for creating and executing test cases.
+- **Automation testers**: 
+  *  **Performance tester**: Responsible for creating and executing automated permformance testing.
+  * **Automation tester**: Responsible for creating and executing automated API and E2E testing
+- **Tools**:
+   * Jira for team management.  
+   * Xray for test management.
+   * Confluence for documentation.
+   * JMeter for performance testing.
+   * Postman for API testing.
+
+### Entry Criteria
+- The all features code is stable for testing.
+- Test environment is set up and ready.
+- Test cases are designed, reviewed, and approved.
+- Test data is designed
+  
+  
+### Exit Criteria
+
+- All test cases are executed.
+- All critical and major defects should be fixed or have a solution plan.
+- Test coverage should be at least 80%.
+- Test summary report is ready.
+
+### Risks and Mitigations
+- **Risk**: Changes in requirements or specifications during testing.
+  - **Mitigation**: Maintain constant contact with the product owner and monitor documentation changes.
+- **Risk**: Lack of testers knowledge.
+  - **Mitigation**: Ensure proper training and development to improve testing skills of team members.
+- **Risk**: Delays in test execution.
+  - **Mitigation**:  Prioritize critical test cases and conduct proper time estimation to avoid delays.
 
 
 
