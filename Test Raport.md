@@ -226,6 +226,10 @@
 
 
 
+https://github.com/user-attachments/assets/d7777522-8a0e-41c7-b16c-9d78ef4f8814
+
+
+
 
 <h2 id="Bug-Reports">16. Filter reset on brand filter application</h2>
 
@@ -238,3 +242,15 @@
 **Actual result**: The system resets all other filters when a brand filter is applied, limiting the user's ability to refine the search results.
 
 
+
+https://github.com/user-attachments/assets/62f74f31-102a-47a5-a598-ccb2802f5ce0
+<br></br>
+
+<h2 id="Bug-Reports">Other smaller bugs. </h2>
+
+| Issue | Description | Expected Behavior |
+|--------|--------------|-------------------|
+| 17. **Filter toggling issue** | Once a filter is applied, it cannot be clicked again to remove it and display all results. | Clicking a filter again should toggle it off and display all products. |
+| 18. **Non-functional newsletter signup link** | Clicking on the "Subscribe to our newsletter and get a 10% discount on your purchase!" link does not lead anywhere. | Clicking the link should either display a subscription form or redirect the user to a subscription page. |
+| 19. **Slow scrolling issue** | When scrolling up very slowly, the scroll often jumps back to the top of the page. | The scroll should be smooth and consistent regardless of the scrolling speed. |
+| 20. **Modal scroll interference** | When interacting with elements inside a modal popup (like buttons or input fields), the main page underneath the modal starts scrolling unintentionally. | Scrolling should be confined to the modal, and interactions within the modal should not affect the main page's scroll position. |
