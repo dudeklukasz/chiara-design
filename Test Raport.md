@@ -1,4 +1,4 @@
-<h1 id="Test-report">Test Summary Report.</h2>
+<h1 id="Test-report">Test Summary Report.</h1>
 
 1. **Descripton**: Tests were conducted to ensure the quality and reliability of the web application functionalitys.
 2. **Test Period**: Beginning of Sprint 7 - End of Sprint 7
@@ -32,3 +32,7 @@
 * **Prioritize Bug Fixes:** Address the identified functional and usability issues.
 * **Consider Additional Testing:** Conduct further exploratory testing to uncover additional issues.
 * **Enhance Performance Testing:** Allocate resources to perform comprehensive performance testing to identify and resolve performance bottlenecks.
+
+<br></br>
+
+<h1 id="Qase-Main">Bug reports</h1>
