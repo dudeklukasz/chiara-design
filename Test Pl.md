@@ -94,6 +94,42 @@ The main objective is to ensure the quality and reliability of the e-commerce we
   - **Mitigation**:  Prioritize critical test cases and conduct proper time estimation to avoid delays.
 
 
+<h1 id="Jira-Main">List of all test cases created in Jira and Xray</h2>
+
+![Alt text](https://github.com/dudeklukasz/chiara-design/blob/main/img/Login_Test_Cases.png "a title")
+
+<h1 id="Qase-Main">Example test cases in full details using Qase.</h2>
+
+
+
+### 1. Verify successful login with valid data
+
+![Alt text](https://github.com/dudeklukasz/chiara-design/blob/main/img/TC1.png "Test Case 1")
+
+### 2. Verify failed login with invalid data
+
+![Alt text](https://github.com/dudeklukasz/chiara-design/blob/main/img/TC2.png "Test Case 2")
+
+### 3. Check login with empty fields
+
+![Alt text](https://github.com/dudeklukasz/chiara-design/blob/main/img/TC3.png "Test Case 3")
+
+### 4. Test password reset functionality
+
+![Alt text](https://github.com/dudeklukasz/chiara-design/blob/main/img/TC4.png "Test Case 4")
+
+### 5. Check two-factor authentication
+
+![Alt text](https://github.com/dudeklukasz/chiara-design/blob/main/img/TC5.png "Test Case 5")
+ 
+### 6. Check login using social media
+![Alt text](https://github.com/dudeklukasz/chiara-design/blob/main/img/TC6.png "Test Case 6")
+
+### 7. Test logout functionality
+![Alt text](https://github.com/dudeklukasz/chiara-design/blob/main/img/TC7.png "Test Case 7")
+
+### 8. Validate session timeout
+![Alt text](https://github.com/dudeklukasz/chiara-design/blob/main/img/TC8.png "Test Case 8")
 
 
 
